@@ -17,7 +17,7 @@ Ja assisti esse [curso](https://www.udemy.com/course/curso-go/).
 
 E por ultimo estou assistindo esse [curso](https://www.youtube.com/watch?v=WiGU_ZB-u0w&list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg&index=1).
 
-Endereço do desafio: https://github.com/IAPOLINARIO/100-da...
-Site do projeto original: https://www.100daysofcode.com/
-Twitter do Ismael (Dono do gitHub do Desafio): https://twitter.com/iapolinario
-Twitter do Jeferson (LinuxTips): https://twitter.com/badtux_
+- Endereço do desafio: https://github.com/IAPOLINARIO/100-da...
+- Site do projeto original: https://www.100daysofcode.com/
+- Twitter do Ismael (Dono do gitHub do Desafio): https://twitter.com/iapolinario
+- Twitter do Jeferson (LinuxTips): https://twitter.com/badtux_
