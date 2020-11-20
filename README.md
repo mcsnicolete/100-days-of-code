@@ -2,7 +2,8 @@
 
 Repositório criado para o desafio 100-days-of-code.
 
-Descobri esse desafio atravéz do video [VOCÊ ACEITA ESSE DESAFIO?](https://www.youtube.com/watch?v=OkJ18EAjhwU) da [LinuxTips](https://www.linuxtips.io/), que falava sobre um desafio [100-days-of-code](https://www.100daysofcode.com/). Esse desafio tem como proposta focar em uma linguagem de programação em 100 dias seguidos, ao menos 1 hora por dia.
+Descobri esse desafio atravéz do video [VOCÊ ACEITA ESSE DESAFIO?](https://www.youtube.com/watch?v=OkJ18EAjhwU) da [LinuxTips](https://www.linuxtips.io/)
+Esse video fala sobre um desafio [100-days-of-code](https://www.100daysofcode.com/). Esse desafio tem como proposta focar em uma linguagem de programação em 100 dias seguidos, ao menos 1 hora por dia.
 
 Achei um ótimo desafio, pois vou melhorar minhas skills em uma linguagem, e talvez aprender a resolver problemas mais complexos utilizando uma linguagem de programação.
 
