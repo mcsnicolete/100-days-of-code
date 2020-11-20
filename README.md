@@ -2,7 +2,7 @@
 
 Repositório criado para o desafio 100-days-of-code.
 
-Descobri esse desafio atravéz do video [VOCÊ ACEITA ESSE DESAFIO?](https://www.youtube.com/watch?v=OkJ18EAjhwU)  da [LinuxTips](https://www.linuxtips.io/), que falava sobre um desafio [100-days-of-code](https://www.100daysofcode.com/). Esse desafio tem como proposta focar em uma linguagem de programação em 100 dias seguidos, ao menos 1 hora por dia.
+Descobri esse desafio atravéz do video [VOCÊ ACEITA ESSE DESAFIO?](https://www.youtube.com/watch?v=OkJ18EAjhwU) da [LinuxTips](https://www.linuxtips.io/), que falava sobre um desafio [100-days-of-code](https://www.100daysofcode.com/). Esse desafio tem como proposta focar em uma linguagem de programação em 100 dias seguidos, ao menos 1 hora por dia.
 
 Achei um ótimo desafio, pois vou melhorar minhas skills em uma linguagem, e talvez aprender a resolver problemas mais complexos utilizando uma linguagem de programação.
 
@@ -15,3 +15,8 @@ Li esse [livro](https://www.amazon.com.br/Programando-Go-aplica%C3%A7%C3%B5es-li
 Ja assisti esse [curso](https://www.udemy.com/course/curso-go/).
 
 E por ultimo estou assistindo esse [curso](https://www.youtube.com/watch?v=WiGU_ZB-u0w&list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg&index=1).
+
+Endereço do desafio: https://github.com/IAPOLINARIO/100-da...
+Site do projeto original: https://www.100daysofcode.com/
+Twitter do Ismael (Dono do gitHub do Desafio): https://twitter.com/iapolinario
+Twitter do Jeferson (LinuxTips): https://twitter.com/badtux_
